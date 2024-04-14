@@ -8,7 +8,7 @@ Este es un código que dispone de un cubo sísmico sintético y 7 atributos sís
 Para correr este código en el Google Colab por favor use el cubo síntético llamado "0.dat", instale las dependencias correspondientes y el archivo d2geo (modificado) se descarga del drive https://drive.google.com/drive/folders/15FPeTqlZOPFdI-GpGJXrRs6OT5bYYFys?usp=sharing 
 ## Tech Stack
 
-**Client:** Streamlit, Google Colab
+**Client:** Google Colab
 
 **Server:** Python
 
